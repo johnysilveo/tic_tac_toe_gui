@@ -1,0 +1,3 @@
+GitHub is an online platform used to store and manage Git repositories.
+It allows developers to share source code, collaborate with other people, track project changes, review code, report issues, and create Pull Requests.
+GitHub also provides a remote backup of the project and makes it possible to work on the same repository from different computers.
