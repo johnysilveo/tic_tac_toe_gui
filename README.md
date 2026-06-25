@@ -31,3 +31,7 @@ corners, translucent panels, shadows, reflections, textures, and animations.
 - PySide6
 - Git
 - GitHub
+
+- ## Conclusion
+
+This project helps practice Git and GitHub workflows while developing a modern Tic Tac Toe GUI application.
