@@ -1,0 +1,5 @@
+1. Make small and focused commits.
+2. Write clear and meaningful commit messages.
+3. Pull the latest changes before starting new work.
+4. Use separate branches for new features and fixes.
+5. Review changes with git status and git diff before committing.
